@@ -9,3 +9,6 @@ for i in range(len(txt)):
         print(i)
 
 
+# We can used pre-defined method
+target =txt.find("o")
+print(target)
