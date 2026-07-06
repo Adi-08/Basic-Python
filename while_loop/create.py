@@ -1,0 +1,4 @@
+# Syntax
+
+# while condition:
+#     statement;
